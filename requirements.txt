@@ -1,0 +1,10 @@
+Flask
+requests[socks]
+bs4
+gunicorn
+textblob
+selenium
+lxml
+pymongo
+pytest
+raven[flask]
